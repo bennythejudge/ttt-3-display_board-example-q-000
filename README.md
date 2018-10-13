@@ -1,5 +1,7 @@
 # Printing a Tic Tac Toe Board
 
+[![GuardRails badge](https://badges.production.guardrails.io/bennythejudge/ttt-3-display_board-example-q-000.svg)](https://www.guardrails.io)
+
 ## Overview
 
 ## Objectives
